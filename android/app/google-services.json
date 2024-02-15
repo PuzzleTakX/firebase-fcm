@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "92360963802",
+    "project_id": "firbase-fcm-puzzletak",
+    "storage_bucket": "firbase-fcm-puzzletak.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92360963802:android:a803649bda71b8bc5c17e3",
+        "android_client_info": {
+          "package_name": "com.puzzletak.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwDHQ7bD1DSLZzcqfOkUB0dYZK2bN0slU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
